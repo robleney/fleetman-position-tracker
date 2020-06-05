@@ -2,7 +2,7 @@ package com.virtualpairprogrammers;
 
 import org.junit.Test;
 
-public class TestTimestampParsing 
+public class TimestampParsingTest 
 {
 	@Test
 	public void timestampsParseCorrectly() 
